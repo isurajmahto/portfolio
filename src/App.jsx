@@ -5,7 +5,7 @@ export default function Portfolio() {
     <div>
       <header>
         <h1>Hi, I'm Suraj Mahto</h1>
-        <p>Frontend / Full Stack Developer</p>
+        <p>Frontend /  Stack Developer</p>
       </header>
       <section id="about">
         <h2>About Me</h2>
